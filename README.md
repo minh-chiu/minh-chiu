@@ -2,10 +2,10 @@
 🚀 Fullstack Developer | Backend Specialist | DevOps Enthusiast  
 
 ## 🔥 About Me  
-- 🌊 Living in Da Nang, Viet Nam
 - 🎯 3+ years of experience in backend & fullstack development.  
 - 🛠️ Strong in Node.js (NestJS), Nuxt.js, MongoDB, Redis, PostgreSQL, AWS, and DevOps.  
 - 💡 Passionate about building scalable systems, optimizing performance, and leading technical projects.  
+- 🌊 Living in Da Nang, Viet Nam
 
 ## 💼 My Work  
 ### 🏗️ Projects  
