@@ -23,4 +23,4 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: minhchiu.official@gmail.com  
-- 🏄‍♂️ Fun Fact: I know **12 ways to lace up rollerblades**!  
+-🏸 Fun Fact: My smash speed is almost as fast as my API responses**!  
