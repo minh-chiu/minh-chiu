@@ -14,13 +14,6 @@
 - **📦 Logistics System** – Automated order fulfillment & financial reconciliation.  
 - **🤖 AI-Powered Content Generator** – Web scraping & automated publishing.  
 
-### 🚀 Tech Stack  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
 ## 📫 Connect with Me  
 - 📧 Email: minhchiu.official@gmail.com  
 - 🏸 Fun Fact: My smash speed is almost as fast as my API responses**!
