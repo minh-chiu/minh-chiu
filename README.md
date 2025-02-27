@@ -15,5 +15,5 @@
 - **🤖 AI-Powered Content Generator** – Web scraping & automated publishing.  
 
 ## 📫 Connect with Me  
-- 📧 Email: minhchiu.official@gmail.com  
+- 📧 Email: minhcc.1403@gmail.com  
 - 🏸 Fun Fact: My smash speed is almost as fast as my API responses**!
