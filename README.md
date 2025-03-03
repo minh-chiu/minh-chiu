@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Minh!  
-🚀 Fullstack Developer | Backend Specialist | DevOps Enthusiast  
+🚀 Fullstack Developer | Backend Specialist
 
 ## 🔥 About Me  
 - 🎯 3+ years of experience in backend & fullstack development.  
